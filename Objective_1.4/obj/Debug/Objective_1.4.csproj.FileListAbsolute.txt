@@ -1,0 +1,6 @@
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\bin\Debug\Objective_1.4.exe.config
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\bin\Debug\Objective_1.4.exe
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\bin\Debug\Objective_1.4.pdb
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\obj\Debug\Objective_1.4.csproj.CoreCompileInputs.cache
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\obj\Debug\Objective_1.4.exe
+C:\Users\Caio Domingues\source\repos\Programming_Csharp\Objective_1.4\obj\Debug\Objective_1.4.pdb
